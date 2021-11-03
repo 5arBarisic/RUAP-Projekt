@@ -1,0 +1,1 @@
+console.log("Pozdrav iz aplikacije od Petar Barisic");
